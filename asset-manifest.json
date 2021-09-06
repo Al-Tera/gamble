@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gamble/static/css/main.f7c24ef9.chunk.css",
-    "main.js": "/gamble/static/js/main.9aeeecbb.chunk.js",
-    "main.js.map": "/gamble/static/js/main.9aeeecbb.chunk.js.map",
+    "main.js": "/gamble/static/js/main.232e7c4d.chunk.js",
+    "main.js.map": "/gamble/static/js/main.232e7c4d.chunk.js.map",
     "runtime-main.js": "/gamble/static/js/runtime-main.5d8af460.js",
     "runtime-main.js.map": "/gamble/static/js/runtime-main.5d8af460.js.map",
     "static/js/2.d43762ee.chunk.js": "/gamble/static/js/2.d43762ee.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.5d8af460.js",
     "static/js/2.d43762ee.chunk.js",
     "static/css/main.f7c24ef9.chunk.css",
-    "static/js/main.9aeeecbb.chunk.js"
+    "static/js/main.232e7c4d.chunk.js"
   ]
 }

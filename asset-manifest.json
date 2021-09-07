@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gamble/static/css/main.f7c24ef9.chunk.css",
-    "main.js": "/gamble/static/js/main.232e7c4d.chunk.js",
-    "main.js.map": "/gamble/static/js/main.232e7c4d.chunk.js.map",
+    "main.css": "/gamble/static/css/main.57b6a442.chunk.css",
+    "main.js": "/gamble/static/js/main.128841d4.chunk.js",
+    "main.js.map": "/gamble/static/js/main.128841d4.chunk.js.map",
     "runtime-main.js": "/gamble/static/js/runtime-main.5d8af460.js",
     "runtime-main.js.map": "/gamble/static/js/runtime-main.5d8af460.js.map",
-    "static/js/2.d43762ee.chunk.js": "/gamble/static/js/2.d43762ee.chunk.js",
-    "static/js/2.d43762ee.chunk.js.map": "/gamble/static/js/2.d43762ee.chunk.js.map",
+    "static/js/2.8c22f950.chunk.js": "/gamble/static/js/2.8c22f950.chunk.js",
+    "static/js/2.8c22f950.chunk.js.map": "/gamble/static/js/2.8c22f950.chunk.js.map",
     "static/js/3.4bedfda2.chunk.js": "/gamble/static/js/3.4bedfda2.chunk.js",
     "static/js/3.4bedfda2.chunk.js.map": "/gamble/static/js/3.4bedfda2.chunk.js.map",
     "index.html": "/gamble/index.html",
-    "static/css/main.f7c24ef9.chunk.css.map": "/gamble/static/css/main.f7c24ef9.chunk.css.map",
-    "static/js/2.d43762ee.chunk.js.LICENSE.txt": "/gamble/static/js/2.d43762ee.chunk.js.LICENSE.txt",
+    "static/css/main.57b6a442.chunk.css.map": "/gamble/static/css/main.57b6a442.chunk.css.map",
+    "static/js/2.8c22f950.chunk.js.LICENSE.txt": "/gamble/static/js/2.8c22f950.chunk.js.LICENSE.txt",
     "static/media/paper.239a5b38.svg": "/gamble/static/media/paper.239a5b38.svg",
     "static/media/rock.60199911.svg": "/gamble/static/media/rock.60199911.svg",
     "static/media/scissors.4211e2f9.svg": "/gamble/static/media/scissors.4211e2f9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d8af460.js",
-    "static/js/2.d43762ee.chunk.js",
-    "static/css/main.f7c24ef9.chunk.css",
-    "static/js/main.232e7c4d.chunk.js"
+    "static/js/2.8c22f950.chunk.js",
+    "static/css/main.57b6a442.chunk.css",
+    "static/js/main.128841d4.chunk.js"
   ]
 }

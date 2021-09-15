@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gamble/static/css/main.a64240e5.chunk.css",
-    "main.js": "/gamble/static/js/main.03c8be3b.chunk.js",
-    "main.js.map": "/gamble/static/js/main.03c8be3b.chunk.js.map",
+    "main.css": "/gamble/static/css/main.9217ac55.chunk.css",
+    "main.js": "/gamble/static/js/main.80402cf1.chunk.js",
+    "main.js.map": "/gamble/static/js/main.80402cf1.chunk.js.map",
     "runtime-main.js": "/gamble/static/js/runtime-main.5d8af460.js",
     "runtime-main.js.map": "/gamble/static/js/runtime-main.5d8af460.js.map",
     "static/js/2.124a8143.chunk.js": "/gamble/static/js/2.124a8143.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.4bedfda2.chunk.js": "/gamble/static/js/3.4bedfda2.chunk.js",
     "static/js/3.4bedfda2.chunk.js.map": "/gamble/static/js/3.4bedfda2.chunk.js.map",
     "index.html": "/gamble/index.html",
-    "static/css/main.a64240e5.chunk.css.map": "/gamble/static/css/main.a64240e5.chunk.css.map",
+    "static/css/main.9217ac55.chunk.css.map": "/gamble/static/css/main.9217ac55.chunk.css.map",
     "static/js/2.124a8143.chunk.js.LICENSE.txt": "/gamble/static/js/2.124a8143.chunk.js.LICENSE.txt",
     "static/media/clubs11.28f46a9d.png": "/gamble/static/media/clubs11.28f46a9d.png",
     "static/media/clubs12.97e37cd4.png": "/gamble/static/media/clubs12.97e37cd4.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.5d8af460.js",
     "static/js/2.124a8143.chunk.js",
-    "static/css/main.a64240e5.chunk.css",
-    "static/js/main.03c8be3b.chunk.js"
+    "static/css/main.9217ac55.chunk.css",
+    "static/js/main.80402cf1.chunk.js"
   ]
 }
